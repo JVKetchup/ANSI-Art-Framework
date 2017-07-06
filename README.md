@@ -1,6 +1,8 @@
 # ANSI-Art-Framework
 Displays images in the command prompt window with up to 16 colors.
 
+![](http://i.imgur.com/5HuWMR9.png)
+
 This framework uses string arrays to compose images on the screen.
 
 Supported color values are as follows:
