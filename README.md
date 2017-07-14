@@ -1,5 +1,5 @@
 # ANSI-Art-Framework
-Displays images in the command prompt window with up to 16 colors.
+Display images in the command prompt window with up to 16 colors
 
 ![](http://i.imgur.com/5HuWMR9.png)
 
